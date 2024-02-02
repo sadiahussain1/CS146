@@ -20,4 +20,4 @@ class Solution(object):
 test = Solution()
 print("tacocat being a palindrome is", test.palindrome("tacocat"))
 print("burritocat being a palindrome is", test.palindrome("burritocat"))
-print("Xx_TACoCAT_xX, which sounds like a username I'd see on Scratch, being a palindrome is", test.palindrome("Xx_TACoCAT_xX"))
+print("Xx_TaCoCAT_xX, which sounds like a username I'd see on Scratch, being a palindrome is", test.palindrome("Xx_TaCoCAT_xX"))
