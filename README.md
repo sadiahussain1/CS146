@@ -1,1 +1,1 @@
-lalala this is my collection of stuffs for class lalala
+This is my collection of classwork! Yay.
